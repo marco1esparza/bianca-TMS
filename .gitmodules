@@ -2,3 +2,8 @@
 	path = transport-management-system
 	url = git@github.com:Jarsa/transport-management-system.git
 	branch = 15.0
+
+[submodule "operating-unit"]
+	path = operating-unit
+	url = git@github.com:Jarsa/operating-unit.git
+	branch = 15.0
